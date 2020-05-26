@@ -1,0 +1,38 @@
+h1{
+    color: red;
+    text-align: center;
+}
+h3{
+    color: red;
+    text-align: right;
+}
+p{
+    color: blue;
+    text-align: center;
+}
+*{
+    background-color: seashell;
+    
+}
+button{
+    color: red;
+}
+
+#name{
+    color: blue;
+}
+#addr{
+    color: blue;
+}
+#bg{
+    color: red;
+}
+#pn{
+    color: blue;
+}
+#email{
+    color: blue;
+}
+#fb{
+    color: green;
+}
